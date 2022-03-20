@@ -1,6 +1,0 @@
-{
-  "schema": "./data/tweet.graphql",
-  "rootPath": "./docs",
-  "baseURL": "schema",
-  "linkRoot": "/docs"
-}

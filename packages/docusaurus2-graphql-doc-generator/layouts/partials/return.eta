@@ -1,5 +1,0 @@
-### Type
-
-#### [`<%~ it.type %>`]
-
-<%~ it.description || "" %>

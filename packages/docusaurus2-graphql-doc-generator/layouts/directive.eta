@@ -1,5 +1,0 @@
-<%~ includeFile('./partials/description', it) %>
-
-```graphql
-directive <%~ it.name %> 
-```
