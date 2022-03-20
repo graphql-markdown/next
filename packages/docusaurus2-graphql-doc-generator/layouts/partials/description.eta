@@ -1,3 +1,0 @@
-## <%~ it.operation || it.kind %> `<%~ it.name %>`
-<%~ includeFile('./deprecated', { directives: it.directives || [] }) %>
-<%~ it.description || "" %>
