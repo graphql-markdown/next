@@ -34,7 +34,7 @@
     "@jest/types": "^27.5.1",
     "@types/node": "^15.12.2",
     "directory-tree": "^2.2.9",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "^10.0.1",
     "jest": "^27.0.6",
     "mock-fs": "^5.1.2",
     "typescript": "^4.3.5"
