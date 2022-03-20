@@ -1,5 +1,11 @@
 <center><img src="graphql-markdown.svg" alt="GraphQL Markdown" height="128px"></center>
 
+---
+
+**⚠️ This repo ONLY contains WORK IN PROGRESS for Graphql Markdown version 2 ⚠️**
+
+---
+
 # GraphQL Markdown
 
 GraphQL Markdown is a set of packages providing ways to generate human readable documentation from a GraphQL schema.
