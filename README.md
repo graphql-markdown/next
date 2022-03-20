@@ -6,9 +6,9 @@
 
 ---
 
-# GraphQL Markdown
+# GraphQL-Markdown
 
-GraphQL Markdown is a set of packages providing ways to generate human readable documentation from a GraphQL schema.
+GraphQL-Markdown is a set of packages providing ways to generate human readable documentation from a GraphQL schema.
 
 ## `graphql-markdown`
 
