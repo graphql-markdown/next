@@ -30,7 +30,7 @@
   "dependencies": {
     "eta": "^1.12.3",
     "graphql": "^16.6.0",
-    "graphql-config": "^4.3.3",
+    "graphql-config": "^4.3.5",
     "kebab-case": "^1.0.1",
     "prettier": "^2.7.1",
     "slugify": "^1.6.5"
