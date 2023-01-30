@@ -36,7 +36,7 @@
     "slugify": "^1.6.5"
   },
   "devDependencies": {
-    "@jest/types": "^29.3.1",
+    "@jest/types": "^29.4.1",
     "@types/jest": "^27.5.0",
     "@types/node": "^18.11.18",
     "@types/ws": "^8.5.4",
