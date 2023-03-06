@@ -2249,10 +2249,10 @@ graceful-fs@^4.2.9:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.9.tgz#041b05df45755e587a24942279b9d113146e1c96"
   integrity sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ==
 
-graphql-config@^4.4.1:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/graphql-config/-/graphql-config-4.4.1.tgz#2b1b5215b38911c0b15ff9b2e878101c984802d6"
-  integrity sha512-B8wlvfBHZ5WnI4IiuQZRqql6s+CKz7S+xpUeTb28Z8nRBi8tH9ChEBgT5FnTyE05PUhHlrS2jK9ICJ4YBl9OtQ==
+graphql-config@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/graphql-config/-/graphql-config-4.5.0.tgz#257c2338950b8dce295a27f75c5f6c39f8f777b2"
+  integrity sha512-x6D0/cftpLUJ0Ch1e5sj1TZn6Wcxx4oMfmhaG9shM0DKajA9iR+j1z86GSTQ19fShbGvrSSvbIQsHku6aQ6BBw==
   dependencies:
     "@graphql-tools/graphql-file-loader" "^7.3.7"
     "@graphql-tools/json-file-loader" "^7.3.7"
@@ -2261,7 +2261,8 @@ graphql-config@^4.4.1:
     "@graphql-tools/url-loader" "^7.9.7"
     "@graphql-tools/utils" "^9.0.0"
     cosmiconfig "8.0.0"
-    minimatch "4.2.1"
+    jiti "1.17.1"
+    minimatch "4.2.3"
     string-env-interpolation "1.0.1"
     tslib "^2.4.0"
 
@@ -2925,6 +2926,11 @@ jest@^27.5.1:
     import-local "^3.0.2"
     jest-cli "^27.5.1"
 
+jiti@1.17.1:
+  version "1.17.1"
+  resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.17.1.tgz#264daa43ee89a03e8be28c3d712ccc4eb9f1e8ed"
+  integrity sha512-NZIITw8uZQFuzQimqjUxIrIcEdxYDFIe/0xYfIlVXTkiBjjyBEvgasj5bb0/cHtPRD/NziPbT312sFrkI5ALpw==
+
 js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
@@ -3149,10 +3155,10 @@ mimic-fn@^2.1.0:
   resolved "https://registry.yarnpkg.com/mimic-fn/-/mimic-fn-2.1.0.tgz#7ed2c2ccccaf84d3ffcb7a69b57711fc2083401b"
   integrity sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==
 
-minimatch@4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.2.1.tgz#40d9d511a46bdc4e563c22c3080cde9c0d8299b4"
-  integrity sha512-9Uq1ChtSZO+Mxa/CL1eGizn2vRn3MlLgzhT0Iz8zaY8NdvxvB0d5QdPFmCKf7JKA9Lerx5vRrnwO03jsSfGG9g==
+minimatch@4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.2.3.tgz#b4dcece1d674dee104bb0fb833ebb85a78cbbca6"
+  integrity sha512-lIUdtK5hdofgCTu3aT0sOaHsYR37viUuIc0rwnnDXImbwFRcumyLMeZaM0t0I/fgxS6s6JMfu0rLD1Wz9pv1ng==
   dependencies:
     brace-expansion "^1.1.7"
 
