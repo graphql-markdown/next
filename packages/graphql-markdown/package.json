@@ -42,7 +42,7 @@
     "@types/ws": "^8.5.4",
     "memfs": "^3.5.1",
     "typescript": "^4.9.5",
-    "unionfs": "^4.4.0"
+    "unionfs": "^4.5.1"
   },
   "files": [
     "dist",

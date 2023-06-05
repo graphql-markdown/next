@@ -3865,10 +3865,10 @@ typescript@^4.9.5:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
-unionfs@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/unionfs/-/unionfs-4.4.0.tgz#b671112e505f70678052345cf5c2a33f0e6edde9"
-  integrity sha512-N+TuJHJ3PjmzIRCE1d2N3VN4qg/P78eh/nxzwHnzpg3W2Mvf8Wvi7J1mvv6eNkb8neUeSdFSQsKna0eXVyF4+w==
+unionfs@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/unionfs/-/unionfs-4.5.1.tgz#d2b812aa83840d8dc1f8c74100e318b4bb0071d4"
+  integrity sha512-hn8pzkh0/80mpsIT/YBJKa4+BF/9pNh0IgysBi0CjL95Uok8Hus69TNfgeJckoUNwfTpBq26+F7edO1oBINaIw==
   dependencies:
     fs-monkey "^1.0.0"
 
