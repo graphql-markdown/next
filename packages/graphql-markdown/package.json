@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "eta": "^2.2.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.7.1",
     "graphql-config": "^5.0.2",
     "kebab-case": "^1.0.2",
     "prettier": "^2.8.8",
