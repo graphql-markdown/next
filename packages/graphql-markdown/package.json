@@ -32,7 +32,7 @@
     "graphql": "^16.7.1",
     "graphql-config": "^5.0.2",
     "kebab-case": "^1.0.2",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "slugify": "^1.6.6"
   },
   "devDependencies": {
