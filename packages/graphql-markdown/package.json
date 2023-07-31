@@ -28,7 +28,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "eta": "^3.0.3",
+    "eta": "^3.1.0",
     "graphql": "^16.7.1",
     "graphql-config": "^5.0.2",
     "kebab-case": "^1.0.2",
